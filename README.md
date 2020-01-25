@@ -1,2 +1,2 @@
 # coding_practice
-This is my personal repository for coding practice.
+This repository contains some useful codes, techniques, algorithms and problem solutions helpful in Competitive Coding. 
